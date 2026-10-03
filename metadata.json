@@ -1,0 +1,5 @@
+
+{
+  "name": "Data Lineage Dashboard",
+  "description": "An interactive dashboard to visualize data provenance and lineage in big data pipelines. All processing happens locally in the browser to ensure privacy and offline access."
+}
